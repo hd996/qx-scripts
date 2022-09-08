@@ -1,0 +1,19 @@
+{
+  "name": "qx-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "qx scripts",
+  "keywords": [
+    "qx",
+    "QuantumultX",
+    "Quantumult-X",
+    "Quantumult X",
+    "scripts"
+  ],
+  "homepage": "https://github.com/hd996/qx-scripts",
+  "devDependencies": {
+    "@hd996/eslint-config": "^0.0.6",
+    "eslint": "^8.23.0",
+    "typescript": "^4.8.2"
+  }
+}
