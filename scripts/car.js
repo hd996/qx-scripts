@@ -29,7 +29,7 @@ $task.fetch(myRequest).then(response => {
   console.log(response.statusCode + '\n\n' + response.body)
   const { result } = JSON.parse(response.body)
   const { km, oilRate, oilWaste } = result
-  $notify('一汽丰田', `里程：${km}\n\n油量：${oilRate}\n\n油耗${oilWaste}`)
+  $notify('一汽丰田', '里程：' + km + '\n\n' + '油量：' + oilRate + '\n\n' + '油耗：' + oilWaste)
   $done()
 }, reason => {
   console.log(reason.error)
