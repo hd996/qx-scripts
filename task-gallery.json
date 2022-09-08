@@ -1,6 +1,6 @@
 {
-  "name": "Task Gallery",
-  "description":"Crontab Task Gallery",
+  "name": "任务集合",
+  "description":"任务集合",
   "task": [
     {
       "config": "0 0 * * * https:\/\/raw.githubusercontent.com\/hd996\/qx-scripts\/main\/scripts\/car.js, img-url=https:\/\/raw.githubusercontent.com\/hd996\/qx-scripts\/main\/assets\/icon\/car.png, tag=🚗汽车, enabled=true"
