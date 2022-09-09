@@ -17,3 +17,4 @@ HOST-KEYWORD,musical.ly,TikTok
 HOST-KEYWORD,tiktok,TikTok
 HOST-KEYWORD,tiktokv,TikTok
 USER-AGENT,TikTok*,TikTok
+DOMAIN-SUFFIX,tiktokv.com TikTok
