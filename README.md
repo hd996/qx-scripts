@@ -4,11 +4,7 @@
 
 ## 🐑 羊了个羊 - 2022.09.16
 
-脚本来自于 [ylgy](https://github.com/yangdaozhao/ylgy)
-
-1. 在`重写`添加规则，路径为：<https://raw.githubusercontent.com/hd996/qx-scripts/main/Rewrite/Game/Ylgy.conf>
-2. 打开 MitM（需生成证书+信任证书）和 重写
-3. 玩`2`次第一关
+需要脚本请联系我
 
 ## 🔗 Links
 
